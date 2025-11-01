@@ -1,0 +1,110 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2025 Aspose Pty Ltd.
+# File created: 10/29/2025 07:25:53
+
+newmtl TileSet6
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 1
+	d 1
+	Tr 0
+	map_Kd TileSet6_baseColor.png
+	map_Pr TileSet6_metallicRoughness.png
+	map_Pm TileSet6_metallicRoughness.png
+	norm TileSet6_normal.png
+newmtl TileSet4
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 1
+	d 1
+	Tr 0
+	map_Kd TileSet4_baseColor.png
+	map_Pr TileSet4_metallicRoughness.png
+	map_Pm TileSet4_metallicRoughness.png
+	norm TileSet4_normal.png
+newmtl TileSet5
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 1
+	d 1
+	Tr 0
+	map_Kd TileSet5_baseColor.png
+	map_Pr TileSet5_metallicRoughness.png
+	map_Pm TileSet5_metallicRoughness.png
+	norm TileSet5_normal.png
+newmtl Plants
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.8529343
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Plants_baseColor.png
+	map_Pr Plants_metallicRoughness.png
+	map_Pm Plants_metallicRoughness.png
+	norm Plants_normal.png
+newmtl TileSet2
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 1
+	d 1
+	Tr 0
+	map_Kd TileSet2_baseColor.png
+	map_Pr TileSet2_metallicRoughness.png
+	map_Pm TileSet2_metallicRoughness.png
+	norm TileSet2_normal.png
+newmtl TileSet1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 1
+	d 1
+	Tr 0
+	map_Kd TileSet1_baseColor.png
+	map_Pr TileSet1_metallicRoughness.png
+	map_Pm TileSet1_metallicRoughness.png
+	norm TileSet1_normal.png
+newmtl TileSet3
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 1
+	d 1
+	Tr 0
+	map_Kd TileSet3_baseColor.png
+	map_Pr TileSet3_metallicRoughness.png
+	map_Pm TileSet3_metallicRoughness.png
+	norm TileSet3_normal.png
+newmtl Ground
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.77389205
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Ground_baseColor.png
+	norm Ground_normal.png
+newmtl TileSet1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 1
+	d 1
+	Tr 0
+	map_Kd TileSet1_baseColor.png
+	map_Pr TileSet1_metallicRoughness.png
+	map_Pm TileSet1_metallicRoughness.png
+	norm TileSet1_normal.png
