@@ -1,0 +1,11 @@
+Textures:
+https://ambientcg.com/view?id=NightSkyHDRI014
+https://www.apaintingfortheartist.com/2023/07/20/a-free-cc0-public-domain-grass-mud-leaves-ground-foliage-photoshop-texture-and-3d-models-texture
+
+Models:
+Nature (Tress and stone):	https://kenney.nl/assets/nature-kit
+Player Model: 	https://sketchfab.com/3d-models/monk-character-8cacbd85a5b84f59a8c9000d7a6dcca2
+Hut Model: 	https://sketchfab.com/3d-models/le-tonneau-tavern-c5d10210bd644c2c85e15e9bb219ef4c
+Pillar Model:	https://sketchfab.com/3d-models/medieval-sci-fi-pillar-60c1b1f74df24898a54968ec3008fc63
+Crystal Platform Model: 	https://sketchfab.com/3d-models/temple-ruins-6b3eb4e27e03485a886ce5304e95f897
+Crystal Model:	https://sketchfab.com/3d-models/magic-diamond-6d3498168d5249d4a837f5a12bad69f3
